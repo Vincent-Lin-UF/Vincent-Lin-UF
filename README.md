@@ -5,4 +5,4 @@
 📚 **I love learning :)**
 
 ## 📫 Connect with Me
-- 💼 **LinkedIn**: [Vincent Lin](https://www.linkedin.com/in/vincent-lin-uf/) 
+💼 **LinkedIn**: [Vincent Lin](https://www.linkedin.com/in/vincent-lin-uf/) 
