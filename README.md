@@ -41,7 +41,7 @@ Feel free to reach out if you would like to connect, chat about projects or idea
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bash/bash-original.svg" height=50 width=50 />
 </div>
 
-###
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vincent-Lin-UF/Vincent-Lin-UF/output/pacman-contribution-graph-dark.svg">
@@ -49,6 +49,6 @@ Feel free to reach out if you would like to connect, chat about projects or idea
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vincent-Lin-UF/Vincent-Lin-UF/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-<br/><br/>
+<br><br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Vincent-Lin-UF&style=flat-square&label=Profile+Views)
