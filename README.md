@@ -10,9 +10,41 @@ I enjoy exploring how things work and applying software engineering to build pro
 
 Above all, I love learning new things. Fun fact: pumpkins and cucumbers are berries 🎃
 
-🎓 **CS, Math, EE @ UF**
+Feel free to reach out if you would like to connect, chat about projects or ideas, or discuss opportunities! 📫
 
-📚 **I love learning :)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-lin-uf/)
 
-## 📫 Connect with Me
-💼 **LinkedIn**: [Vincent Lin](https://www.linkedin.com/in/vincent-lin-uf/) 
+## Experience
+- ☁️ Software Engineering Intern @ Zeta Global
+- 🧠 LLM Researcher @ Algoverse
+- 🌲 Student Instructor @ Stanford University
+- 🪟 Teaching Assistant @ Microsoft TEALS
+- 📝 Full-Stack Engineering Intern @ Vetra
+- ⚡ Machine Learning Engineer Intern @ Tampa Electric
+- 🔬 Undergraduate Researcher @ University of Florida
+- 🚀 Software Engineering Intern @ Northrop Grumman Space
+
+## Languages
+<div flex=row justify-content=center>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=50 width=50 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height=50 width=50 />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg" height=50 width=50 />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/go/go-original-wordmark.svg" height=50 width=50 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height=50 width=50 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height=50 width=50 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=50 width=50 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height=50 width=50 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=50 width=50 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height=50 width=50 />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/lua/lua-original.svg" height=50 width=50 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height=50 width=50 />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bash/bash-original.svg" height=50 width=50 />
+</div>
+
+## Frameworks and Libraries
+
+Text Here
+
+## Databases and Tools
+
+Text Here
