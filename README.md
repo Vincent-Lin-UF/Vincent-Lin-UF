@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vincent Lin!
 
-🎓 **UF SASE President | CS, Math, EE @ UF**
+🎓 **CS, Math, EE @ UF**
 
 📚 **I love learning :)**
 
