@@ -41,10 +41,5 @@ Feel free to reach out if you would like to connect, chat about projects or idea
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bash/bash-original.svg" height=50 width=50 />
 </div>
 
-## Frameworks and Libraries
-
-Text Here
-
-## Databases and Tools
-
-Text Here
+<br/><br/>
+![Profile Views](https://komarev.com/ghpvc/?username=Vincent-Lin-UF&style=flat-square&label=Profile+Views)
