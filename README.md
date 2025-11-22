@@ -14,15 +14,6 @@ Feel free to reach out if you would like to connect, chat about projects or idea
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-lin-uf/)
 
-## Experience
-- ☁️ Software Engineering Intern @ Zeta Global
-- 🧠 LLM Researcher @ Algoverse
-- 🌲 Student Instructor @ Stanford University
-- 🪟 Teaching Assistant @ Microsoft TEALS
-- 📝 Full-Stack Engineering Intern @ Vetra
-- ⚡ Machine Learning Engineer Intern @ Tampa Electric
-- 🔬 Undergraduate Researcher @ University of Florida
-- 🚀 Software Engineering Intern @ Northrop Grumman Space
   
 ---
 
@@ -34,6 +25,16 @@ Feel free to reach out if you would like to connect, chat about projects or idea
     <img src="https://raw.githubusercontent.com/Vincent-Lin-UF/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
   </a>
 </div>
+
+## Experience
+- ☁️ Software Engineering Intern @ Zeta Global
+- 🧠 LLM Researcher @ Algoverse
+- 🌲 Student Instructor @ Stanford University
+- 🪟 Teaching Assistant @ Microsoft TEALS
+- 📝 Full-Stack Engineering Intern @ Vetra
+- ⚡ Machine Learning Engineer Intern @ Tampa Electric
+- 🔬 Undergraduate Researcher @ University of Florida
+- 🚀 Software Engineering Intern @ Northrop Grumman Space
 
 ---
 
