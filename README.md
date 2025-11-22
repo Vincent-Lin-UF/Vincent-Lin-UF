@@ -23,7 +23,15 @@ Feel free to reach out if you would like to connect, chat about projects or idea
 - ⚡ Machine Learning Engineer Intern @ Tampa Electric
 - 🔬 Undergraduate Researcher @ University of Florida
 - 🚀 Software Engineering Intern @ Northrop Grumman Space
-
+---
+<div align="center">
+  <a href="https://github.com/Vincent-Lin-UF">
+    <img src="https://raw.githubusercontent.com/Vincent-Lin-UF/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+  </a>
+  <a href="https://github.com/Vincent-Lin-UF">
+    <img src="https://raw.githubusercontent.com/Vincent-Lin-UF/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+  </a>
+</div>
 ---
 
 <picture>
