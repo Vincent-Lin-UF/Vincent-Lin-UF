@@ -24,7 +24,7 @@ Feel free to reach out if you would like to connect, chat about projects or idea
 - 🔬 Undergraduate Researcher @ University of Florida
 - 🚀 Software Engineering Intern @ Northrop Grumman Space
 
-## Languages
+---
 <div flex=row justify-content=center>
   <a href="https://github.com/Vincent-Lin-UF">
     <img src="https://raw.githubusercontent.com/Vincent-Lin-UF/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
