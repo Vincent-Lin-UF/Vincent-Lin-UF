@@ -25,13 +25,6 @@ Feel free to reach out if you would like to connect, chat about projects or idea
 - 🚀 Software Engineering Intern @ Northrop Grumman Space
 
 ---
-<div flex=row justify-content=center>
-  <a href="https://github.com/Vincent-Lin-UF">
-    <img src="https://raw.githubusercontent.com/Vincent-Lin-UF/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-  </a>
-</div>
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vincent-Lin-UF/Vincent-Lin-UF/output/pacman-contribution-graph-dark.svg">
