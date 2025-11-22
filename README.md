@@ -26,6 +26,9 @@ Feel free to reach out if you would like to connect, chat about projects or idea
 
 ## Languages
 <div flex=row justify-content=center>
+  <a href="https://github.com/prayujt">
+    <img src="https://raw.githubusercontent.com/prayujt/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+  </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=50 width=50 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height=50 width=50 />
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg" height=50 width=50 />
