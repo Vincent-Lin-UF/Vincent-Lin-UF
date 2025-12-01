@@ -26,16 +26,6 @@ Feel free to reach out if you would like to connect, chat about projects or idea
   </a>
 </div>
 
-## Experience
-- ☁️ Software Engineering Intern @ Zeta Global
-- 🧠 LLM Researcher @ Algoverse
-- 🌲 Student Instructor @ Stanford University
-- 🪟 Teaching Assistant @ Microsoft TEALS
-- 📝 Full-Stack Engineering Intern @ Vetra
-- ⚡ Machine Learning Engineer Intern @ Tampa Electric
-- 🔬 Undergraduate Researcher @ University of Florida
-- 🚀 Software Engineering Intern @ Northrop Grumman Space
-
 ---
 
 <picture>
