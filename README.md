@@ -4,13 +4,14 @@
   </a>
 </h1>
 
-My name is Vincent Lin and I am a Computer Science major at the University of Florida 🐊
+Hi im vincent lin :)
 
-I enjoy exploring how things work and applying software engineering to build projects that bring ideas to life 🧑‍💻
-
-Above all, I love learning new things. Fun fact: pumpkins and cucumbers are berries 🎃
-
-Feel free to reach out if you would like to connect, chat about projects or ideas, or discuss opportunities! 📫
+Current Interests:
+- Inference Optimization
+- Latent Space
+- CPython Internals
+- Efficient C++
+- Distributed Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-lin-uf/)
 
