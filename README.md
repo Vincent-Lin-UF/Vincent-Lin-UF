@@ -8,7 +8,7 @@ Hi im vincent lin :)
 
 Current Interests:
 - Inference Optimization
-- Latent Space
+- Mojo/MAX
 - CPython Internals
 - Efficient C++
 - Distributed Systems
