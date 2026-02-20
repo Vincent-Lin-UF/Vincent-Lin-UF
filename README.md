@@ -7,6 +7,7 @@
 Hi im vincent lin :)
 
 Current Interests:
+- RSSM and World Models
 - Inference Optimization
 - Mojo/MAX
 - CPython Internals
