@@ -9,7 +9,7 @@ Hi im vincent lin :)
 Current Interests:
 - RSSM and World Models
 - Inference Optimization
-- Mojo/MAX
+- Model Training
 - LLVM/Compilers
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-lin-uf/)
