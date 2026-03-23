@@ -8,7 +8,7 @@ Hi im vincent lin :)
 
 Current Interests:
 - RSSM and World Models
-- Inference Optimization
+- vLLM/Inference Optimization
 - Model Training
 - LLVM/Compilers
 
